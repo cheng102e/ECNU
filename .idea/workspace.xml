@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5d010fe-8ea7-4f40-ac24-efcf2121e217" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Question/E3358.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question/E2863.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,24 +18,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Question/E3416.java">
+        <entry file="file://$PROJECT_DIR$/src/Question/E3358.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#582#583#0" expanded="true" />
-                <element signature="e#597#598#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="342">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Question/E3358.java">
+        <entry file="file://$PROJECT_DIR$/src/Question/E2863.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            <state relative-caret-position="336">
+              <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,6 +68,7 @@
         <option value="$PROJECT_DIR$/src/Question/E2852.java" />
         <option value="$PROJECT_DIR$/src/Question/E3416.java" />
         <option value="$PROJECT_DIR$/src/Question/E3358.java" />
+        <option value="$PROJECT_DIR$/src/Question/E2863.java" />
       </list>
     </option>
   </component>
@@ -87,8 +86,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,6 +108,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -151,9 +150,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.E3358">
-    <configuration name="E2849" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question.E2849" />
+  <component name="RunManager" selected="Application.E2863">
+    <configuration name="E2852" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question.E2852" />
       <module name="ECNU" />
       <extension name="coverage">
         <pattern>
@@ -165,8 +164,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E2852" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question.E2852" />
+    <configuration name="E2863" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question.E2863" />
       <module name="ECNU" />
       <extension name="coverage">
         <pattern>
@@ -219,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E2863" />
         <item itemvalue="Application.E3358" />
         <item itemvalue="Application.E3416" />
         <item itemvalue="Application.E2852" />
         <item itemvalue="Application.E2987" />
-        <item itemvalue="Application.E2849" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +243,8 @@
       <workItem from="1610845675020" duration="7998000" />
       <workItem from="1610934614728" duration="10413000" />
       <workItem from="1611022406294" duration="792000" />
-      <workItem from="1611039255883" duration="797000" />
+      <workItem from="1611039255883" duration="1764000" />
+      <workItem from="1611106131932" duration="2630000" />
     </task>
     <task id="LOCAL-00001" summary="1.13">
       <created>1610541734123</created>
@@ -288,17 +288,23 @@
       <option name="project" value="LOCAL" />
       <updated>1610978566345</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="21.1.19">
+      <created>1611040102945</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611040102945</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39011000" />
+    <option name="totallyTimeSpent" value="42608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13404825" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13538875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -342,7 +348,8 @@
     <MESSAGE value="1.15" />
     <MESSAGE value="21.1.15" />
     <MESSAGE value="21.1.18" />
-    <option name="LAST_COMMIT_MESSAGE" value="21.1.18" />
+    <MESSAGE value="21.1.19" />
+    <option name="LAST_COMMIT_MESSAGE" value="21.1.19" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Test/score.java">
@@ -492,8 +499,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Question/E3416.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="504">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#582#583#0" expanded="true" />
@@ -504,8 +511,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Question/E3358.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        <state relative-caret-position="342">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Question/E2863.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
