@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5d010fe-8ea7-4f40-ac24-efcf2121e217" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Question/E1006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question/E1026.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question/E2862.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question/E2947.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question/E48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question/E2844.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question/E2975.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question/E3119.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question/E3150.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,37 +21,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Question/E1006.java">
+        <entry file="file://$PROJECT_DIR$/src/Question/E2844.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Question/E2947.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" selection-start-line="8" selection-end-line="55" selection-end-column="3" />
+            <state relative-caret-position="84">
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1009#1010#0" expanded="true" />
-                <element signature="e#1024#1025#0" expanded="true" />
+                <element signature="e#657#658#0" expanded="true" />
+                <element signature="e#687#688#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Question/E48.java">
+        <entry file="file://$PROJECT_DIR$/src/Question/E2975.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="28" column="50" lean-forward="true" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
-              <folding>
-                <element signature="e#865#866#0" expanded="true" />
-                <element signature="e#880#881#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="318">
+              <caret line="51" column="3" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="51" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Question/E3119.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="27" column="3" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="27" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -65,6 +59,7 @@
       <find>do</find>
       <find>team</find>
       <find>arra</find>
+      <find>tor</find>
       <find>com</find>
     </findStrings>
   </component>
@@ -101,6 +96,11 @@
         <option value="$PROJECT_DIR$/src/Question/E1006.java" />
         <option value="$PROJECT_DIR$/src/Question/E2947.java" />
         <option value="$PROJECT_DIR$/src/Question/E48.java" />
+        <option value="$PROJECT_DIR$/src/Question/E4043.java" />
+        <option value="$PROJECT_DIR$/src/Question/E3150.java" />
+        <option value="$PROJECT_DIR$/src/Question/E2844.java" />
+        <option value="$PROJECT_DIR$/src/Question/E2975.java" />
+        <option value="$PROJECT_DIR$/src/Question/E3119.java" />
       </list>
     </option>
   </component>
@@ -182,9 +182,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.E48">
-    <configuration name="E1006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question.E1006" />
+  <component name="RunManager" selected="Application.E3119">
+    <configuration name="E2844" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question.E2844" />
       <module name="ECNU" />
       <extension name="coverage">
         <pattern>
@@ -196,8 +196,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E2862" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question.E2862" />
+    <configuration name="E2975" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question.E2975" />
       <module name="ECNU" />
       <extension name="coverage">
         <pattern>
@@ -209,8 +209,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E2947" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question.E2947" />
+    <configuration name="E3119" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question.E3119" />
       <module name="ECNU" />
       <extension name="coverage">
         <pattern>
@@ -222,8 +222,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E3532" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question.E3532" />
+    <configuration name="E3150" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question.E3150" />
       <module name="ECNU" />
       <extension name="coverage">
         <pattern>
@@ -235,8 +235,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question.E48" />
+    <configuration name="E4043" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question.E4043" />
       <module name="ECNU" />
       <extension name="coverage">
         <pattern>
@@ -250,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.E48" />
-        <item itemvalue="Application.E2947" />
-        <item itemvalue="Application.E1006" />
-        <item itemvalue="Application.E2862" />
-        <item itemvalue="Application.E3532" />
+        <item itemvalue="Application.E3119" />
+        <item itemvalue="Application.E2975" />
+        <item itemvalue="Application.E2844" />
+        <item itemvalue="Application.E3150" />
+        <item itemvalue="Application.E4043" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +278,10 @@
       <workItem from="1611039255883" duration="1764000" />
       <workItem from="1611106131932" duration="3316000" />
       <workItem from="1611198355036" duration="12696000" />
-      <workItem from="1611284794973" duration="10859000" />
+      <workItem from="1611284794973" duration="11075000" />
+      <workItem from="1611372224419" duration="9349000" />
+      <workItem from="1611454061180" duration="3678000" />
+      <workItem from="1611543245080" duration="3992000" />
     </task>
     <task id="LOCAL-00001" summary="1.13">
       <created>1610541734123</created>
@@ -343,17 +346,24 @@
       <option name="project" value="LOCAL" />
       <updated>1611238697577</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="21.1.22">
+      <created>1611312670704</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1611312670704</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66849000" />
+    <option name="totallyTimeSpent" value="84084000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13873994" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14477211" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -400,7 +410,8 @@
     <MESSAGE value="21.1.19" />
     <MESSAGE value="21.1.20" />
     <MESSAGE value="21.1.21" />
-    <option name="LAST_COMMIT_MESSAGE" value="21.1.21" />
+    <MESSAGE value="21.1.22" />
+    <option name="LAST_COMMIT_MESSAGE" value="21.1.22" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Test/score.java">
@@ -464,16 +475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-231">
           <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Question/E3530.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -638,31 +639,73 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Question/E1006.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
+        <state relative-caret-position="126">
           <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Question/E2947.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="126">
           <caret line="8" selection-start-line="8" selection-end-line="55" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1009#1010#0" expanded="true" />
-            <element signature="e#1024#1025#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Question/E4043.java" />
     <entry file="file://$PROJECT_DIR$/src/Question/E48.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="28" column="50" lean-forward="true" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+        <state relative-caret-position="147">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Question/E3530.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="33" selection-end-column="5" />
           <folding>
-            <element signature="e#865#866#0" expanded="true" />
-            <element signature="e#880#881#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Question/E3150.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Question/E2844.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding>
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Question/E3119.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="27" column="3" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="27" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Question/E2975.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="51" column="3" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="51" selection-end-column="3" />
         </state>
       </provider>
     </entry>
